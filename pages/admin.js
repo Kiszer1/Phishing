@@ -16,7 +16,7 @@ const Admin = ({username}) => {
     }
     return ( 
         <div>
-        {username == "yaad321@gmail.com" && <div className = {styles.box}>
+        {username == "mail" && <div className = {styles.box}>
             <Head>
                 <title>Phishing Admins</title>
                 <meta name='viewport' content='"width=device-width, initial-scale=1'/>
